@@ -61,6 +61,10 @@ git clone https://github.com/BlueBlaze6335/CARscan.git
 ```
 python -m venv env
 ```
+* change directory
+```
+$ cd CARscan
+```
 * Download dependencies
 * Run python file
 ```
