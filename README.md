@@ -27,6 +27,9 @@ Semantic Segmentation of images using PixelLib with help of Pascalvoc dataset tr
 
 ### Dependencies :
 
+Download the H5 file of the xception model trained on pascal voc for segmenting objects from <a href="https://github.com/ayoolaolafenwa/PixelLib/releases/download/1.1/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5">Here</a>.
+Put the downloaded model in the same directory as the python file.
+
 tensorflow : 2.0 or higher
 ```
 $ pip install tensorflow
