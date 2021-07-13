@@ -55,7 +55,7 @@ $ pip install pixellib
 
 * Clone the repo
 ```
-git clone https://github.com/BlueBlaze6335/CARscan-.git
+git clone https://github.com/BlueBlaze6335/CARscan.git
 ```
 * Create venv
 ```
